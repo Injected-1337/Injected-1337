@@ -4,7 +4,7 @@ injected here :)
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=SoarCheats;Common+W;Popular+In+Cheating+Community;Fuck+Anti+Cheats;Wanted+In+13+States;discord.gg/rlbmods;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=&width=435&lines=Injected.css;UD+on+BE+%26+EAC;Popular+in+Cheating+Community;Fucking+%26+Bypassing+Anticheats;discord.gg%2Fbeatware)](https://git.io/typing-svg)
 
 ### Programming Languages
 
