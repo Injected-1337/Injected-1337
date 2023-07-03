@@ -1,5 +1,5 @@
 <h1 align="center">
-injected here :)
+Its me Injected, you paster :)
 
   
   <h2 align="center">
@@ -25,15 +25,7 @@ injected here :)
 
 ## Contact Me
 
-   <a href="https://discord.gg/beatware" target="blank"><img align="center"
-         src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/discord.svg" 
-         alt="azzar" height="50"/></a>
-		 
-   <a href="https://www.instagram.com/injected_1337/" target="blank"><img align="center"
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png"	 
-         alt="azzar" height="50"/></a>
-		 
-	<a href="https://t.me/Injected_cs" target="blank"><img align="center"
+<a href="https://t.me/Injected_cs" target="blank"><img align="center"
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"	 
          alt="azzar" height="50"/></a>
 		 
