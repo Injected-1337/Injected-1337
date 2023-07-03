@@ -4,7 +4,7 @@ Its me Injected, you paster :)
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=&width=435&lines=%20Injected.css;UD+on+BE+%26+EAC;Popular+in+Cheating+Community;Fucking+%26+Bypassing+Anticheats;discord.gg%2Fbeatware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=&width=435&lines=%20=%20=%20=%20=Injected.css;%20=%20=UD+on+BE+%26+EAC;Popular+in+Cheating+Community;Fucking+%26+Bypassing+Anticheats;discord.gg%2Fbeatware)](https://git.io/typing-svg)
 
 ### Programming Languages
 
